@@ -1,0 +1,31 @@
+h1 {
+	color: rgba(128,166,65,0.3);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+	/*for border to work, we need all three of these attributes*/
+	border: purple 2px solid;
+}
+li {
+	color: #00FF00
+
+}
+h4 {
+	background: : #0000FF
+}
+
+body {
+	background: url(https://www.hdwallpapers.in/walls/autumn_bench-HD.jpg);
+	
+	background-repeat: no-repeat; 
+	/*repear property will say, dont strech*/
+	background-size: cover;
+	/*cover will say cover full page*/
+}
+
+
+/*#FFFFFF is white and #000000 is black
+rgb(255,255,255) is white and rgb(0,0,0) is black*/
+
+/*rgba(r,g,b,alpha value)
+alpha value must be 0 to 1. alpha defines transparency. 0 is transparent and 1 is full dark*/

@@ -1,0 +1,15 @@
+#one {
+	background: rgba(120,240,65,0.4);
+}
+
+li {
+	background: rgba(120,240,65,0.4);
+}
+
+.comp{
+	text-decoration: underline;
+}
+/*here, ID is for one variable and class if for multiple variables and element selector is used as general thing*/
+
+/*good reads*/
+/*https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048*/

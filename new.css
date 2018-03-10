@@ -1,0 +1,14 @@
+h1 {
+	color: rgba(128,166,65,0.2);
+}
+li {
+	color: #00FF00
+}
+h4 {
+	color: #0000FF
+}
+/*#FFFFFF is white and #000000 is black
+rgb(255,255,255) is white and rgb(0,0,0) is black*/
+
+/*rgba(r,g,b,alpha value)
+alpha value must be 0 to 1. alpha defines transparency. 0 is transparent and 1 is full dark*/
